@@ -1,0 +1,12 @@
+---
+title: First note
+author: Nan Gu
+date: '2017-08-28'
+slug: first-note
+bibliography: [../../static/bib/DNA damage and repair-Plant_P.patens.bib, ../../static/bib/DNA damage and repair.bib]
+csl: [../../static/csl/apa.csl]
+link-citations: true
+---
+I cite three paper[@Abraham2001a; @Acevedo2016; @Adachi2011].   
+
+### Reference
