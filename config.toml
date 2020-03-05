@@ -1,6 +1,6 @@
 baseurl = ""
 languageCode = "en-us"
-title = "Liechi's research work"
+title = "Gu's Research Note"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -32,8 +32,8 @@ enableEmoji = true
     url = "/post/"
     weight = 4
 #[[menu.main]]
-#    name = "Liechi's personal website"
-#    url = "https://liechi.org"
+#    name = "Gu's Research Note"
+#    url = "https://gunan.org"
 #    weight = 5
 
 [params]
