@@ -7,6 +7,6 @@ bibliography: [../../static/bib/DNA damage and repair-Plant_P.patens.bib, ../../
 csl: [../../static/csl/apa.csl]
 link-citations: true
 ---
-I cite three paper[@Abraham2001a; @Acevedo2016; @Adachi2011].   
+I cite three papers[@Abraham2001a; @Acevedo2016; @Adachi2011].   
 
 ### Reference
